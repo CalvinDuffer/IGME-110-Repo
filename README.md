@@ -15,5 +15,5 @@
 4. Zane
 5. Cole
 
-![RIT](https://www.rit.edu/) - https://www.rit.edu/
+[RIT](https://www.rit.edu/) - https://www.rit.edu/
 
