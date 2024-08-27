@@ -4,4 +4,4 @@
 2. [Lloyd](https://ninjago.fandom.com/wiki/Lloyd)
 3. [Jay](https://ninjago.fandom.com/wiki/Jay)
 4. [Zane](https://ninjago.fandom.com/wiki/Zane)
-5.  [Cole](https://ninjago.fandom.com/wiki/Cole)
+6.  [Cole](https://ninjago.fandom.com/wiki/Cole)
