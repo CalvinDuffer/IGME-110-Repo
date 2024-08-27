@@ -1,5 +1,5 @@
 # NINJAGO Ninja RANKED
-## (Core Five Only)
+## Core Five
 1. [**Kai**](https://ninjago.fandom.com/wiki/Kai)
 2. [Lloyd](https://ninjago.fandom.com/wiki/Lloyd)
 3. [Jay](https://ninjago.fandom.com/wiki/Jay)
