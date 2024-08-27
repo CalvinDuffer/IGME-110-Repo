@@ -1,4 +1,4 @@
-# NINJAGO Ninja RANKED
+# **NINJAGO** Ninja RANKED
 1. Kai
 2. Lloyd
 3. Jay
